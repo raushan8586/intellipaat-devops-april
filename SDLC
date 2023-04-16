@@ -1,0 +1,21 @@
+app --> planmytrip.com
+
+SDLC --> Software Deveopment Life Cycle
+
+1. Requirements Gathering
+2. Planning
+3. Design
+4. Code
+5. Build
+6. Unit testing
+7. System Integration Testing
+8. Performance Testing
+9. Security Testing
+10. User Acceptance testing
+11. Deploy the code to Production
+
+
+Development methodolgies
+1. waterfall model
+2. Agile
+3. DevOps --> SDLC Automation --> Release Velocity can be increased
