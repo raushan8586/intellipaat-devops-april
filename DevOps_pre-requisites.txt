@@ -3,3 +3,6 @@ pre-requisites:
 1. Linux OS / Commands ---> shell-scripting
 2. Cloud service provider --> AWS
 3. Python Scripting
+
+
+On-Prem / Cloud --> cloud service models --> IaaS, PaaS, SaaS
