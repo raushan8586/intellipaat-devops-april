@@ -1,0 +1,11 @@
+DevOps --> Development + Operations --> Better collaboation between development and operations team --> SDLC Automaiton
+
+Tools
+1. Git --> Version Control
+2. GitHub --> Source Code Management
+3. Maven --> Build the code --> Compile, unit test, package the code to create artifacts --> .jar, .war
+4. Docker, Kubernetes --> Micro-Services, Containers, Container Engine --> Docker, Container Orchestration Engine --> Kubernetes (K8s)
+5. Terraform --> Infrastrcture as Code
+6. Ansible --> Configuration Management Tool
+7. Monitoring tools --> Prometheus/Grafana, ELK
+8. Jenkins --> Integration tools --> CI/CD pipeline
