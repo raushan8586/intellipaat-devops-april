@@ -66,4 +66,56 @@ root@ip-172-31-12-69:~/project1# history
    65  history
    
    
-   
+   67  git branch
+   68  df -h
+   69  git branch
+   70  git branch b1 master
+   71  git branch
+   72  git log --oneline
+   73  git checkout b1
+   74  git branch
+   75  git log --oneline
+   76  git ls-files
+   77  git status
+   78  git push origin b1
+   79  git branch
+   80  vi b1_file1
+   81  ls -l
+   82  git ls-files
+   83  git status
+   84  git add b1_file1
+   85  git commit -m "b1_1st_commit"
+   86  git log --oneline
+   87  git push origin b1
+   88  git branch
+   89  git checkout master
+   90  git log --oneline
+   91  git merge b1 master
+   92  git log --oneline
+   93  git branch
+   94  git checkout -b b2 master
+   95  git branch
+   96  git log --oneline
+   97  git push origin b2
+   98  ls -l
+   99  git branch
+  100  git status
+  101  git checkout master
+  102  git status
+  103  ls -l
+  104  git ls-files
+  105  rm file1
+  106  ls -l
+  107  git status
+  108  git ls-files
+  109  git restore file1
+  110  ls -l
+  111  git rm file1
+  112  ls -l
+  113  git ls-files
+  114  git status
+  115  git restore --staged file1
+  116  git status
+  117  git restore file1
+  118  ls -l
+  119  history
