@@ -1,0 +1,69 @@
+root@ip-172-31-12-69:~/project1# history
+    1  apt update -y
+    2  clear
+    3  ls -l
+    4  git version
+    5  git clone https://github.com/raushan8586/intellipaat-devops-april.git
+    6  ls -l
+    7  cd intellipaat-devops-april/
+    8  ls -l
+    9  ls -la
+   10  git ls-files
+   11  cd ..
+   12  ls -l
+   13  clear
+   14  ls -l
+   15  mkdir project1
+   16  cd project1/
+   17  ls -la
+   18  git init
+   19  ls -la
+   20  touch file1
+   21  vi file1
+   22  ls -l
+   23  git ls-files
+   24  git status
+   25  ls -l
+   26  git ls-files
+   27  git status
+   28  git add file1
+   29  ls -l
+   30  git ls-files
+   31  git status
+   32  git commit -a -m "1st commit"
+   33  clear
+   34  ls -l
+   35  git ls-files
+   36  git status
+   37  git log
+   38  git remote -v
+   39  git remote add origin https://github.com/raushan8586/devops-repo-sample.git
+   40  git remote -v
+   41  git status
+   42  git show 58842dfffeb39bf9c7c2d22e8c58d9c34141241c
+   43  git log
+   44  vi file2
+   45  ls -l
+   46  git ls-files
+   47  git status
+   48  git add file2
+   49  ls files
+   50  ls -l
+   51  git ls-files
+   52  git status
+   53  git commit -a -m "2nd commit"
+   54  git log
+   55  git log --oneline
+   56  git push origin master
+   57  clear
+   58  git push origin master
+   59  cd ..
+   60  ls -l
+   61  cd intellipaat-devops-april/
+   62  git remote -v
+   63  cd ../project1/
+   64  git remote -v
+   65  history
+   
+   
+   
