@@ -119,3 +119,47 @@ root@ip-172-31-12-69:~/project1# history
   117  git restore file1
   118  ls -l
   119  history
+
+
+
+23-April-2023
+
+122  clear
+  123  ls -l
+  124  mkdir project2
+  125  cd project
+  126  cd project2/
+  127  ls -l
+  128  git status
+  129  git log
+  130  ls -la
+  131  git init
+  132  ls -la
+  133  vi sample1
+  134  git status
+  135  ls -la
+  136  ls -l
+  137  man ls
+  138  ls -l
+  139  git ls-files
+  140  git add sample1
+  141  git ls -files
+  142  git ls-files
+  143  git status
+  144  clear
+  145  ls -l
+  146  git ls-files
+  147  git status
+  148  git commit -m "first commit"
+  149  git log
+  150  git log --oneline
+  151  vi sample1
+  152  git show 802a1b870806f3b4146a9a935c5e32806a385716
+  153  git status
+  154  git commit -a -m "2nd commit"
+  155  git log --oneline
+  156  git remote -v
+  157  git remote add origin https://github.com/raushan8586/intellipaat-repo2.git
+  158  git remote -v
+  159  git push origin master
+  160  history
