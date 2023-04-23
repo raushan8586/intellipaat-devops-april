@@ -11,3 +11,17 @@ To Confirm SA or LR --> git status
 
 
 WD --> git add --> Staging Area --> git commit --> Local Repository --> git push --> Remote Repository
+
+
+why git branching?
+ - to manage multiple modules/work in the same repo
+ - For the bug fixes
+ - for any new activity
+ 
+ git branch --> list the branch
+ git branch b1 master --> create b1 branch --> b1 will have all the coommits of master
+ git checkout b1
+ 
+ -------------------------
+ 
+ git checkout -b b2 master --> create b2 branch and checkout
