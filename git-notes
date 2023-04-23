@@ -8,3 +8,6 @@ version control:
 WD --> ls -l
 SA/LR --> git ls-files
 To Confirm SA or LR --> git status
+
+
+WD --> git add --> Staging Area --> git commit --> Local Repository --> git push --> Remote Repository
