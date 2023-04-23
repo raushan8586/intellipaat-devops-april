@@ -25,3 +25,12 @@ why git branching?
  -------------------------
  
  git checkout -b b2 master --> create b2 branch and checkout
+ 
+ 
+ Merge --> feature branch --> Master branch
+ Feature branches means any branch but master
+ 
+ Rebase --> Arranging the log history in the linear fashion.  master branch --> feature branches
+ Golden Rule --> Before you do a commit in a feature branch, Rebase first
+ 
+To check the linear/parallel development --> git log --graph --pretty=oneline
