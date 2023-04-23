@@ -163,3 +163,52 @@ root@ip-172-31-12-69:~/project1# history
   158  git remote -v
   159  git push origin master
   160  history
+
+
+163  git branch
+  164  git branch b1 master
+  165  git log --oneline
+  166  git checkout b1
+  167  git log --oneline
+  168  vi b1_file1
+  169  git add b1_file1
+  170  git commit -m "b1_1st-commit"
+  171  git log --oneline
+  172  git checkout master
+  173  git log --oneline
+  174  git merge b1 master
+  175  git log --oneline
+  176  history
+  177  git branch -b b2 master
+  178  clear
+  179  git checkout -b b2 master
+  180  git branch
+  181  git log --oneline
+  182  ls -l
+  183  vi b2_file1
+  184  git add b2_file1
+  185  git commit -m b2_file1
+  186  git log --oneline
+  187  git checkout master
+  188  git merge b2 master
+  189  git checkout b1
+  190  vi b1_file2
+  191  git add b1_file2
+  192  git commit -m "b1_2nd-commit"
+  193  git branch
+  194  git log --graph --pretty=oneline
+  195  git checkout master
+  196  git merge b1 master
+  197  git log --graph --pretty=oneline
+  198  git log --oneline
+  199  git checkout b2
+  200  git log --oneline
+  201  git log --graph --pretty=oneline
+  202  git rebase master
+  203  git branch
+  204  git status
+  205  git restore sample1
+  206  git status
+  207  git rebase master
+  208  git log --graph --pretty=oneline
+  209  history
