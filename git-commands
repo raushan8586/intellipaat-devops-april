@@ -212,3 +212,10 @@ root@ip-172-31-12-69:~/project1# history
   207  git rebase master
   208  git log --graph --pretty=oneline
   209  history
+git fetch
+  219  git ls-files
+  220  git pull
+  221  git remote -v
+  222  git pull origin master
+  223  git ls-files
+  224  history
