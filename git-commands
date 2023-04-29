@@ -219,3 +219,37 @@ git fetch
   222  git pull origin master
   223  git ls-files
   224  history
+
+
+29th-April-2023
+
+git log --oneline
+  252  vi sample3
+  253  git add .
+  254  git commit -m "4th commit"
+  255  git log --oneline
+  256  git show 4d383a9
+  257  git revert 4d383a9
+  258  git log --oneline
+  259  ls -l
+  260  git status
+  261  git show 4d383a9
+  262  git show 85d03ce
+  263  git revert 85d03ce
+  264  git log --oneline
+  265  ls -l
+  266  git reset --hard 4d383a9
+  267  git log --oneline
+  268  ls -l
+  269  rm sample3
+  270  ls -l
+  271  git status
+  272  git restore sample3
+  273  ls -l
+  274  git rm sample3
+  275  ls -l
+  276  git status
+  277  git restore --staged sample3
+  278  git status
+  279  git restore sample3
+  280  history
