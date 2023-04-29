@@ -253,3 +253,58 @@ git log --oneline
   278  git status
   279  git restore sample3
   280  history
+
+
+361  git checkout b1
+  362  vi intellipaat
+  363  git add .
+  364  got commit -m "intellipaat_b1"
+  365  git commit -m "intellipaat_b1"
+  366  git checkout master
+  367  git merge b1 master
+  368  git branch
+  369  ls -l
+  370  cat intellipaat
+  371  git status
+  372  vi intellipaat
+  373  cat intellipaat
+  374  git add .
+  375  git commit -m "intellipaat_updated"
+  376  git status
+  377  vi intellipaat
+  378  git log
+  379  git config list
+  380  git config --list
+  381  git config --global user.name "raushan"
+  382  git config --global user.email "raushan8586.kumar@gmail.com"
+  383  git config --list
+  384  git branch
+  385  vi dummy.txt
+  386  git add .
+  387  git commit -m "dummy-file-updated"
+  388  git log
+  389  git config --list
+  390  vi code1
+  391  vi code2
+  392  git add .
+  393  git commit -m "code-file-updated"
+  394  vi code1
+  395  vi code2
+  396  ls -l
+  397  git status
+  398  git stash list
+  399  git stash
+  400  git stash list
+  401  git status
+  402  git show stash@{0}
+  403  git stash list
+  404  git stash pop stash@{0}
+  405  git stash list
+  406  git status
+  407  git stash -p
+  408  git status
+  409  git stash list
+  410  git stash clear
+  411  git stash list
+  412  git status
+  413  history
