@@ -4,3 +4,34 @@ root@ip-172-31-47-95:~# history
     3  apt install docker.io -y
     4  docker version
     5  history
+    6  docker images
+    7  docker pull httpd
+    8  docker ps
+    9  docker images
+   10  docker pull fedora
+   11  docker images
+   12  d
+   13  docker run -itd fedora
+   14  docker ps
+   15  docker rm -f 52021a9e0f23
+   16  docker ps
+   17  docker run -itd 83a840c3b816
+   18  docker ps
+   19  docker exec -it b94a7c5e41a4 /bin/bash
+   20  docker ps
+   21  docker images
+   22  docker inspect 4b7fc736cb48
+   23  clear
+   24  docker run -itd -p 82:80 httpd
+   25  docker ps
+   26  lsof -i -P -n | grep LISTEN
+   27  docker images
+   28  docker ps
+   29  docker exec -it f707200ae990 /bin/bash
+   30  docker images
+   31  docker exec -it f707200ae990 /bin/bash
+   32  docker ps
+   33  docker rename f707200ae990 syed
+   34  docker ps
+   35  docker exec -it f707200ae990 /bin/bash
+   36  history
