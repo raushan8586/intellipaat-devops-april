@@ -1,0 +1,6 @@
+root@ip-172-31-47-95:~# history
+    1  apt update -y
+    2  docker version
+    3  apt install docker.io -y
+    4  docker version
+    5  history
